@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/bhavy/OneDrive/Desktop/GITHUB/BHAVYA/Github/Chest-Cancer-Classification-using-MLFlow-DVC/mlruns/0/e7864cf59d31434ab9d00e153a20f58f/artifacts
+end_time: 1735757127876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7864cf59d31434ab9d00e153a20f58f
+run_name: luxuriant-skunk-360
+run_uuid: e7864cf59d31434ab9d00e153a20f58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735757115111
+status: 3
+tags: []
+user_id: bhavy

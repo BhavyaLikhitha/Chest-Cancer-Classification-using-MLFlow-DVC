@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/bhavy/OneDrive/Desktop/GITHUB/BHAVYA/Github/Chest-Cancer-Classification-using-MLFlow-DVC/mlruns/0/3d9458e3474d42c7bda0a1946f0bbf5b/artifacts
+end_time: 1735756725038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d9458e3474d42c7bda0a1946f0bbf5b
+run_name: brawny-dolphin-955
+run_uuid: 3d9458e3474d42c7bda0a1946f0bbf5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735756703284
+status: 3
+tags: []
+user_id: bhavy

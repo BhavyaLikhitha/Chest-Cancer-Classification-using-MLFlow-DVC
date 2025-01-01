@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/bhavy/OneDrive/Desktop/GITHUB/BHAVYA/Github/Chest-Cancer-Classification-using-MLFlow-DVC/mlruns/0/58d88114074c413cae0458cd8a51ceb0/artifacts
+end_time: 1735758047526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d88114074c413cae0458cd8a51ceb0
+run_name: nebulous-ape-670
+run_uuid: 58d88114074c413cae0458cd8a51ceb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735758035655
+status: 3
+tags: []
+user_id: bhavy
