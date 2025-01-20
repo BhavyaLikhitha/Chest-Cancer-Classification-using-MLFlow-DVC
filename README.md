@@ -1,5 +1,8 @@
 # Chest Cancer Classification using MLflow & DVC 🫁 🔬
 
+![Chest Cancer](./chest.png)
+
+
 ## 🎯 Project Overview
 
 An end-to-end deep learning pipeline for classifying chest cancer types (Adenocarcinoma vs Normal) using state-of-the-art deep learning techniques. The project achieves 84% accuracy and implements MLOps best practices using MLflow and DVC.
